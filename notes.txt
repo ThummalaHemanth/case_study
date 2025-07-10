@@ -25,10 +25,7 @@ getbootstrap.com
 
 
 
-grid: it is use to manage layout of web app by using inbuilt classes.
--in bootstrap grid it provide mainly two classes
-1.row classes
-2.col classes
+
 
 
  
